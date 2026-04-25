@@ -150,7 +150,7 @@
 
 <div align="center">
 
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=o0-James-0o&theme=tokyonight&border=7c3aed&border_radius=12&fire=A78BFA&ring=7c3aed&currStreakLabel=A78BFA" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o0-James-0o&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&border_radius=12"/>
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=o0-James-0o&theme=tokyonight&border=7c3aed&border_radius=12&fire=A78BFA&ring=7c3aed&currStreakLabel=A78BFA" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABDULMUNAFZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&border_radius=12"/>
 | :-: | :-: | 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0-James-0o&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&border_radius=12"/>
 
