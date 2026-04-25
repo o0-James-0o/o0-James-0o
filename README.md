@@ -135,13 +135,7 @@
 
 <div align="center">
 
-| Project | Description | Stack |
-|:---|:---|:---:|
-| 💬 **[Full Stack Chat + Sentiment AI](https://full-stack-chatting-website.onrender.com)** | Real-time chat app with image sharing, sentiment analysis & secure MongoDB Atlas storage | React · Node · MongoDB · NLP |
-| 🌿 **GreenSight AI** | Deep learning pipeline classifying terrain into 10 environmental categories in real-time | Python · YOLOv8 · PyTorch |
-| 🤟 **Indian Sign Language Recognition** | Continuous sentence formation with multi-language TTS & accessibility-first design | OpenCV · PyTorch · Python |
-| 🍽️ **Freelance: Bakery Concept Website** | Custom, pixel-perfect bakery brand website | React · CSS · Webflow |
-| 💆 **Freelance: Counseling & Healing Services** | Calming, accessible therapy services landing page | React · Node · Flask |
+
 
 </div>
 
