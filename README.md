@@ -4,7 +4,7 @@
 <!--                    ANIMATED BANNER HEADER                      -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=James%20Taylor&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Blue%20Team%20%7C%20SOC&descAlignY=58&descSize=18&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=James%20Taylor&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Blue%20Team%20%7C%20SOC&descAlignY=58&descSize=18&animation=twinkling" />
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                      TYPING ANIMATION                          -->
@@ -22,7 +22,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                         ABOUT ME                               -->
@@ -55,7 +55,7 @@
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                    HACKATHON ACHIEVEMENTS 🏆                   -->
@@ -66,17 +66,15 @@
 <div align="center">
 
 | Area | Focus | Tools / Concepts | Status |
-|---|---|---|---|
-| 🔍 SOC Monitoring | Security alerts and event analysis | SIEM, Logs, Dashboards | Studying |
-| 🚨 Incident Response | Detection, triage and response process | Playbooks, Alerts, Reports | Practicing |
-| 🌐 Network Security | Traffic analysis and network fundamentals | TCP/IP, DNS, HTTP, Wireshark | Studying |
-| 🧠 Threat Intelligence | Understanding threats and attack behavior | IOC, TTPs, MITRE ATT&CK | Learning |
-| 🐧 Linux Security | Command line and system analysis | Linux, Bash, Permissions | Practicing |
-| 🛡️ Blue Team Skills | Defensive security and detection mindset | Hardening, Monitoring, Defense | In Progress |
-
+|:---|:---|:---|:---|
+| 🔍&nbsp;SOC&nbsp;Monitoring | Security alerts and event analysis | SIEM, Logs, Dashboards | 🟢&nbsp;Hands-on&nbsp;practice |
+| 🚨&nbsp;Incident&nbsp;Response | Detection, triage and response process | Playbooks, Alerts, Reports | 🟡&nbsp;Studying&nbsp;fundamentals |
+| 🌐&nbsp;Network&nbsp;Security | Traffic analysis and network fundamentals | TCP/IP, DNS, HTTP, Wireshark | 🟢&nbsp;Hands-on&nbsp;practice |
+| 📚&nbsp;Security&nbsp;Frameworks | Understanding security controls, risk management and defensive best practices | NIST CSF, CIS Controls, ISO/IEC 27001, MITRE ATT&CK | 🟡&nbsp;Studying&nbsp;concepts |
+| 🐧&nbsp;Linux&nbsp;Security | Command line, permissions and system analysis | Linux, Bash, Permissions | 🟢&nbsp;Hands-on&nbsp;practice |
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                       TECH STACK 💻                            -->
@@ -95,7 +93,7 @@
 
 ![NIST CSF](https://img.shields.io/badge/NIST%20CSF-003366?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTUgM2gxNGExIDEgMCAwIDEgMSAxdjE2YTEgMSAwIDAgMS0xIDFINWExIDEgMCAwIDEtMS0xVjRhMSAxIDAgMCAxIDEtMVptMiA0djJoMTBWN0g3Wm0wIDR2Mmg2di0ySDdabTAgNHYyaDEwdi0ySDdabTkuMy0zLjctMy44IDMuOC0xLjgtMS44LTEuNCAxLjQgMy4yIDMuMiA1LjItNS4yLTEuNC0xLjRaIi8+PC9zdmc+)
 ![CIS Controls](https://img.shields.io/badge/CIS%20Controls-0052CC?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-232F3E?style=for-the-badge&logo=readthedocs&logoColor=white)
+![ISO/IEC 27001](https://img.shields.io/badge/ISO/IEC%2027001-232F3E?style=for-the-badge&logo=readthedocs&logoColor=white)
 
 **🧱 Firewall & Network Security**
 
@@ -125,7 +123,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                      FEATURED PROJECTS 🔥                      -->
@@ -135,11 +133,14 @@
 
 <div align="center">
 
-
+| Project | Description | Stack |
+|:---|:---|:---:|
+| 🎮 **[Try2Cheat](https://github.com/o0-James-0o/Pygame-Try2Cheat)** | 2D arcade game developed to explore core computer graphics concepts, including pixel-level rendering, setPixel, rasterization and basic visual algorithms, while strengthening Python scripting fundamentals. | Python · Pygame |
+| 🛡️ **Metasploitable Pentest Lab** | Hands-on cybersecurity lab focused on vulnerability assessment, service enumeration and controlled exploitation practice using Metasploitable and Kali Linux, with study references based on NIST CSF and CIS Controls. | Kali Linux · Metasploitable · Nmap · Hydra · Medusa · NIST CSF · CIS Controls |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                      GITHUB STATS 📊                           -->
@@ -155,7 +156,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                     GITHUB TROPHIES 🎖️                         -->
@@ -169,62 +170,25 @@
     </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--             CONTRIBUTION GRAPH + REALISTIC SNAKE 🐍            -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Snake — Watch My Garden Grow
+## 🐍 Feeding the Commit Snake
 
 <div align="center">
 
-
-
-<!-- 
-  ⚙️ TO ENABLE THE SNAKE ANIMATION:
-  Add this GitHub Actions workflow to your repo at:
-  .github/workflows/snake.yml
-
-  ──────────────────────────────────────────────────────
-  name: Generate Snake 🐍
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-    push:
-      branches: [main]
-
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      timeout-minutes: 10
-      steps:
-        - uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-snake.svg?palette=github
-              dist/github-snake-dark.svg?palette=github-dark&color_snake=A78BFA
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ──────────────────────────────────────────────────────
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/o0-James-0o/o0-James-0o/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/o0-James-0o/o0-James-0o/output/snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/o0-James-0o/o0-James-0o/output/snake.svg" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/o0-James-0o/o0-James-0o/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/o0-James-0o/o0-James-0o/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/o0-James-0o/o0-James-0o/output/github-contribution-grid-snake.svg">
+  </picture>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                   ACTIVITY GRAPH 📈                            -->
@@ -238,35 +202,26 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                   CERTIFICATIONS 📜                            -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## 📜 Certifications
+## 🎓 Certification Roadmap
 
 <div align="center">
 
-
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   LANGUAGES KNOWN 🌐                           -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 🌐 
-
-<div align="center">
-
-
+| Priority | Certification | Why it matters | Progress |
+|:---:|:---|:---|:---|
+| 01 | ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1B2D?style=for-the-badge&logo=comptia&logoColor=white)<br>| Building a strong foundation in cybersecurity principles, risk management and defensive security. | 🟢&nbsp;In&nbsp;Progress |
+| 02 | ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-EA1B2D?style=for-the-badge&logo=comptia&logoColor=white)<br>| Developing practical skills in threat detection, security monitoring and incident response. | 🟡&nbsp;Planned |
+| 03 | ![Cisco CyberOps](https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)<br>| Strengthening SOC analyst skills, including alert triage, network monitoring and incident handling. | 🟡&nbsp;Planned |
+| 04 | ![CEH](https://img.shields.io/badge/EC--Council-CEH-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)<br>| Expanding knowledge of offensive security concepts to better understand attacker behavior. | 🟡&nbsp;Planned |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                     CONNECT WITH ME 🤝                         -->
@@ -276,14 +231,13 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-kam,es.netlify.app-7c3aed?style=for-the-badge)](https://abdulmunaf.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kames-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-munaf-z-6380a8251)
-[![GitHub](https://img.shields.io/badge/GitHub-kames.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDULMUNAFZ)
-[![Gmail](https://img.shields.io/badge/Gmail-kames-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:z.abdulmunaf@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTAwLjI4IDQ0OC41Nkg3LjRWMTQ4LjloOTIuODh6TTUzLjg0IDEwNy4xQzI0LjA5IDEwNy4xIDAgODIuNSAwIDUzLjA5IDAgMjMuMzIgMjQuNjggMCA1NS4yIDBjMzAuNTIgMCA1NS4yNCAyMy4zMiA1NS4yNCA1My4wOUMxMTAuMjQgODIuNSA4NS4xNyAxMDcuMSA1My44NCAxMDcuMXpNNDQ3LjkgNDQ4LjU2aC05Mi42OFYzMDIuNGMwLTM0LjgzLS43LTc5LjYtNDguNTItNzkuNi00OC41MiAwLTU1Ljk1IDM3Ljg4LTU1Ljk1IDc3LjA5djE0OC42N0gxNTguMjVWMTQ4LjloODguOTZ2NDAuOGgxLjI4YzEyLjM4LTIzLjQ4IDQyLjY0LTQ4LjUyIDg3Ljg2LTQ4LjUyIDkzLjkzIDAgMTExLjI1IDYxLjg4IDExMS4yNSAxNDIuM3YxNjUuMDl6Ii8+PC9zdmc+)](https://www.linkedin.com/in/1james-taylor1)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=james.taylor@aluno.uece.br)
+[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/o0-James-0o)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                     RANDOM DEV QUOTE ✍️                        -->
@@ -297,7 +251,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                       FOOTER WAVE 🌊                           -->
@@ -307,6 +261,6 @@
 
 <div align="center">
 
-*fghjgfhj!*
+*⭐ Always learning, always improving — one log, one alert and one commit at a time!*
 
 </div>
