@@ -222,9 +222,9 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ABDULMUNAFZ/ABDULMUNAFZ/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ABDULMUNAFZ/ABDULMUNAFZ/output/snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/ABDULMUNAFZ/ABDULMUNAFZ/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/o0-James-0o/o0-James-0o/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/o0-James-0o/o0-James-0o/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/o0-James-0o/o0-James-0o/output/snake.svg" />
 </picture>
 
 
@@ -254,13 +254,7 @@
 
 <div align="center">
 
-![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Certified-F05033?style=for-the-badge&logo=git&logoColor=white)
-![OPSWAT](https://img.shields.io/badge/OPSWAT-Certified-00B388?style=for-the-badge&logoColor=white)
-![RapidMiner](https://img.shields.io/badge/RapidMiner-Certified-FF6600?style=for-the-badge&logoColor=white)
-![Forage](https://img.shields.io/badge/Forage-Certified-5C6BC0?style=for-the-badge&logoColor=white)
-![Great Learning](https://img.shields.io/badge/Great%20Learning-Certified-0066CC?style=for-the-badge&logoColor=white)
+
 
 </div>
 
@@ -270,16 +264,11 @@
 <!--                   LANGUAGES KNOWN 🌐                           -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🌐 Languages I Speak
+## 🌐 
 
 <div align="center">
 
-| Language | Read | Write | Speak |
-|:---:|:---:|:---:|:---:|
-| 🇬🇧 English | ✅ | ✅ | ✅ |
-| 🇮🇳 Tamil | ✅ | ✅ | ✅ |
-| 🇮🇳 Hindi | ✅ | ✅ | ✅ |
-| 🕌 Urdu | — | — | ✅ |
+
 
 </div>
 
@@ -293,10 +282,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-abdulmunaf.netlify.app-7c3aed?style=for-the-badge)](https://abdulmunaf.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Munaf%20Z-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-munaf-z-6380a8251)
-[![GitHub](https://img.shields.io/badge/GitHub-ABDULMUNAFZ-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDULMUNAFZ)
-[![Gmail](https://img.shields.io/badge/Gmail-z.abdulmunaf@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:z.abdulmunaf@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-kam,es.netlify.app-7c3aed?style=for-the-badge)](https://abdulmunaf.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kames-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-munaf-z-6380a8251)
+[![GitHub](https://img.shields.io/badge/GitHub-kames.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDULMUNAFZ)
+[![Gmail](https://img.shields.io/badge/Gmail-kames-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:z.abdulmunaf@gmail.com)
 
 </div>
 
@@ -324,6 +313,6 @@
 
 <div align="center">
 
-*⭐ Star some repos if you find them interesting — it motivates me to keep building!*
+*fghjgfhj!*
 
 </div>
