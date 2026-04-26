@@ -42,9 +42,7 @@
 - 🚨 Interested in **SOC operations**, monitoring and incident response  
 - 🔍 Studying security analysis, log investigation and threat detection  
 - 📊 Learning how to turn security alerts into clear and actionable insights  
-- 🧠 Building knowledge in **SIEM**, **MITRE ATT&CK**, **NIST CSF** and **CIS Controls**
 - 📚 I enjoy transforming study sessions into documented progress and practical experience
-- ⚡ Focused on consistency, patience and long-term professional development
 - 🚀 Building a strong cybersecurity career
 
   </td>
