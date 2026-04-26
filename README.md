@@ -33,22 +33,23 @@
   <h2>&nbsp;&nbsp;About me</h2>
 </div>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%">
 
-- 🛡️ Cybersecurity student focused on Blue Team  
-- 🎓 Computer Science Bachelor's Student at UECE
-- 🚨 SOC, monitoring and incident response  
-- 🔍 Security analysis, logs and threat detection  
-- ⚔️ Passionate about cyber defense  
-- 📊 Turning alerts into clear actions  
-- 🧠 Learning SIEM and MITRE ATT&CK
-- 🚀 Building a strong cybersecurity career  
+- 🎓 Computer Science Bachelor's Student at **State University of Ceará (UECE)**
+- 🛡️ Cybersecurity student focused on **Blue Team** and defensive security  
+- 🚨 Interested in **SOC operations**, monitoring and incident response  
+- 🔍 Studying security analysis, log investigation and threat detection  
+- 📊 Learning how to turn security alerts into clear and actionable insights  
+- 🧠 Building knowledge in **SIEM**, **MITRE ATT&CK**, **NIST CSF** and **CIS Controls**
+- 📚 I enjoy transforming study sessions into documented progress and practical experience
+- ⚡ Focused on consistency, patience and long-term professional development
+- 🚀 Building a strong cybersecurity career
 
   </td>
   <td width="50%" align="center">
-    <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100%" />
+    <img src="https://raw.githubusercontent.com/o0-James-0o/o0-James-0o/main/assets/logo.gif" width="100%"/>
   </td>
   </tr>
 </table>
