@@ -38,7 +38,7 @@
     <td width="50%">
 
 - 🎓 Computer Science Bachelor's Student at **State University of Ceará (UECE)**
-- 🛡️ Cybersecurity student focused on **Blue Team** operations
+- 🛡️ Cybersecurity student specializing on **Blue Team** operations
 - 🚨 Interested in **SOC operations**, monitoring and incident response  
 - 🔍 Studying security analysis, log investigation and threat detection  
 - 📊 Learning how to turn security alerts into clear and actionable insights  
