@@ -135,8 +135,8 @@
 
 | Project | Description | Stack |
 |:---|:---|:---:|
+| 🔐 **[Dictionary Attack: Exploiting Vulnerable](https://github.com/o0-James-0o/ftp-vuln-analysis)** | Practical cybersecurity lab focused on target enumeration, identifying open ports and vulnerable services such as FTP, followed by a controlled dictionary attack using custom wordlists and Medusa, with mitigation and defensive analysis. | Kali Linux · Metasploitable 2 · Nmap · Medusa · FTP · VirtualBox |
 | 🎮 **[Try2Cheat](https://github.com/o0-James-0o/Pygame-Try2Cheat)** | 2D arcade game developed to explore core computer graphics concepts, including pixel-level rendering, setPixel, rasterization and basic visual algorithms, while strengthening Python scripting fundamentals. | Python · Pygame |
-| 🛡️ **Metasploitable Pentest Lab** | Hands-on cybersecurity lab focused on vulnerability assessment, service enumeration and controlled exploitation practice using Metasploitable and Kali Linux, with study references based on NIST CSF and CIS Controls. | Kali Linux · Metasploitable · Nmap · Hydra · Medusa · NIST CSF · CIS Controls |
 
 </div>
 
@@ -150,9 +150,9 @@
 
 <div align="center">
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=o0-James-0o&theme=tokyonight&border_radius=12&border=7C3AED&fire=A78BFA&ring=7C3AED&currStreakLabel=A78BFA)](https://git.io/streak-stats) | ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=o0-James-0o&theme=tokyonight&border_color=7c3aed&border_radius=12&show_icons=true&include_all_commits=true)
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=o0-James-0o&theme=tokyonight&border_radius=12&border=7C3AED&fire=A78BFA&ring=7C3AED&currStreakLabel=A78BFA)](https://git.io/streak-stats) | ![James's GitHub stats](./profile/stats.svg)
 | :-: | :-: | 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0-James-0o&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&border_radius=12"/>
+<img height="180em" src="./profile/top-langs.svg"/>
 
 </div>
 
