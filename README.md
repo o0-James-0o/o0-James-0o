@@ -136,9 +136,9 @@
 <table>
   <thead>
     <tr>
-      <th width="21%">Project</th>
+      <th width="22%">Project</th>
       <th width="60%">Description</th>
-      <th width="19%">Stack</th>
+      <th width="18%">Stack</th>
     </tr>
   </thead>
   <tbody>
