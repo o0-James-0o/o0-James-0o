@@ -133,10 +133,39 @@
 
 <div align="center">
 
-| Project | Description | Stack |
-|:---|:---|:---:|
-| 🔐 **[Dictionary Attack: Exploiting Vulnerable](https://github.com/o0-James-0o/ftp-vuln-analysis)** | Practical cybersecurity lab focused on target enumeration, identifying open ports and vulnerable services such as FTP, followed by a controlled dictionary attack using custom wordlists and Medusa, with mitigation and defensive analysis. | Kali Linux · Metasploitable 2 · Nmap · Medusa · FTP · VirtualBox |
-| 🎮 **[Try2Cheat](https://github.com/o0-James-0o/Pygame-Try2Cheat)** | 2D arcade game developed to explore core computer graphics concepts, including pixel-level rendering, setPixel, rasterization and basic visual algorithms, while strengthening Python scripting fundamentals. | Python · Pygame |
+<table>
+  <thead>
+    <tr>
+      <th width="19%">Project</th>
+      <th width="60%">Description</th>
+      <th width="21%">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        🔐 <strong><a href="https://github.com/o0-James-0o/ftp-vuln-analysis">Dictionary Attack: Exploiting Vulnerable</a></strong>
+      </td>
+      <td>
+        Practical cybersecurity lab focused on target enumeration, identifying open ports and vulnerable services such as FTP, followed by a controlled dictionary attack using custom wordlists and Medusa, with mitigation and defensive analysis.
+      </td>
+      <td align="center">
+        Kali Linux · Metasploitable 2 · Nmap · Medusa · FTP · VirtualBox
+      </td>
+    </tr>
+    <tr>
+      <td>
+        🎮 <strong><a href="https://github.com/o0-James-0o/Pygame-Try2Cheat">Try2Cheat</a></strong>
+      </td>
+      <td>
+        2D arcade game developed to explore core computer graphics concepts, including pixel-level rendering, setPixel, rasterization and basic visual algorithms, while strengthening Python scripting fundamentals.
+      </td>
+      <td align="center">
+        Python · Pygame
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
