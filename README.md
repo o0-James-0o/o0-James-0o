@@ -136,15 +136,15 @@
 <table>
   <thead>
     <tr>
-      <th width="22%">Project</th>
+      <th width="23%">Project</th>
       <th width="60%">Description</th>
-      <th width="18%">Stack</th>
+      <th width="17%">Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        🔐 <strong><a href="https://github.com/o0-James-0o/ftp-vuln-analysis">Dictionary Attack:Exploiting Vulnerable</a></strong>
+        🔐 <strong><a href="https://github.com/o0-James-0o/ftp-vuln-analysis">Dictionary Attack: Exploiting Vulnerable</a></strong>
       </td>
       <td>
         Practical cybersecurity lab focused on target enumeration, identifying open ports and vulnerable services such as FTP, followed by a controlled dictionary attack using custom wordlists and Medusa, with mitigation and defensive analysis.
