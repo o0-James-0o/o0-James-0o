@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=o0-James-0o&theme=tokyonight&border_color=7c3aed&border_radius=12&show_icons=true&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          options: username=o0-James-0o&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&border_radius=12
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
