@@ -4,7 +4,7 @@
 <!--                    ANIMATED BANNER HEADER                      -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=James%20Taylor&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Blue%20Team%20%7C%20SOC&descAlignY=58&descSize=18&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=James%20Taylor&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Blue%20Team%20%7C%20SOC&descAlignY=58&descSize=18&animation=twinkling" />
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                      TYPING ANIMATION                          -->
