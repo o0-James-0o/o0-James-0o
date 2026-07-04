@@ -161,7 +161,7 @@
         First-person 3D virtual tour developed with vanilla WebGL, without graphics libraries, to manually apply computer graphics concepts such as perspective projection, FPS camera, Phong lighting, geometric transformations and animations.
       </td>
       <td align="center">
-        WebGL · JavaScript · GLSL · HTML · CSS
+        WebGL · GLSL · JavaScript · HTML · CSS
       </td>
     </tr>
     <tr>
