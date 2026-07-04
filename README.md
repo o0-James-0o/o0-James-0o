@@ -155,7 +155,7 @@
     </tr>
     <tr>
       <td>
-        🏝️ <strong><a href="https://github.com/o0-James-0o/webgl-prison-island">Brazilian Alcatraz</a></strong>
+        🏝️ <strong><a href="https://github.com/o0-James-0o/webgl-prison-island">Prison Island</a></strong>
       </td>
       <td>
         First-person 3D virtual tour developed with vanilla WebGL, without graphics libraries, to manually apply computer graphics concepts such as perspective projection, FPS camera, Phong lighting, geometric transformations and animations.
