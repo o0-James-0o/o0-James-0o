@@ -150,7 +150,18 @@
         Practical cybersecurity lab focused on target enumeration, identifying open ports and vulnerable services such as FTP, followed by a controlled dictionary attack using custom wordlists and Medusa, with mitigation and defensive analysis.
       </td>
       <td align="center">
-        Kali Linux · Metasploitable 2 · Nmap · Medusa · FTP · VirtualBox
+        Kali Linux · Metasploitable 2 · Nmap · Medusa · VirtualBox
+      </td>
+    </tr>
+    <tr>
+      <td>
+        🏝️ <strong><a href="https://github.com/o0-James-0o/webgl-prison-island">Brazilian Alcatraz</a></strong>
+      </td>
+      <td>
+        First-person 3D virtual tour developed with vanilla WebGL, without graphics libraries, to manually apply computer graphics concepts such as perspective projection, FPS camera, Phong lighting, geometric transformations and animations.
+      </td>
+      <td align="center">
+        WebGL · JavaScript · GLSL · HTML · CSS
       </td>
     </tr>
     <tr>
