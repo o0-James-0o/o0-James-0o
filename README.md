@@ -190,7 +190,7 @@
 
 <div align="center">
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=o0-James-0o&theme=tokyonight&border_radius=12&border=7C3AED&fire=A78BFA&ring=7C3AED&currStreakLabel=A78BFA)](https://git.io/streak-stats) | ![James's GitHub stats](./profile/stats.svg)
+| ![GitHub Streak](./profile/streak.svg) | ![James's GitHub stats](./profile/stats.svg)
 | :-: | :-: | 
 <img height="180em" src="./profile/top-langs.svg"/>
 
