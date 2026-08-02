@@ -209,8 +209,8 @@
 ## 🎖️ GitHub Trophies
 
 <div align="center">
-    <a href="https://github.com/o0-James-0o/github-profile-trophy">
-        <img src="https://github-profile-trophy-phi-jet.vercel.app/?username=o0-James-0o&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    <a href="https://github.com/Erik-Donath/github-profile-trophy">
+        <img src="./profile/trophy.svg" alt="GitHub Profile Trophies" width="84%" />
     </a>
 </div>
 
