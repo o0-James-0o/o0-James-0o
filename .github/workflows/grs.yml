@@ -40,19 +40,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
         
       - name: Generate GitHub profile trophies
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
+          options: 'username=o0-James-0o&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true'
+          path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          username: o0-James-0o
-          file: profile/trophy.svg
-          theme: tokyonight
-          max-cols: 7
-          max-rows: 1
-          panel-size: 115
-          margin-width: 5
-          margin-height: 15
-          no-background: true
-          no-frame: false
           
       - name: Commit cards
         run: |
