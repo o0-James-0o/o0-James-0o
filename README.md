@@ -209,7 +209,7 @@
 ## 🎖️ GitHub Trophies
 
 <div align="center">
-    <a href="https://github.com/Erik-Donath/github-profile-trophy">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="./profile/trophy.svg" alt="GitHub Profile Trophies" width="84%" />
     </a>
 </div>
