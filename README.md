@@ -210,7 +210,7 @@
 
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="./profile/trophy.svg" alt="GitHub Profile Trophies" width="84%" />
+        <img src="https://github-profile-trophy-unserori.vercel.app/?username=o0-James-0o&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="84%"/>
     </a>
 </div>
 
