@@ -51,11 +51,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           version: latest
 
-      - name: Correct repository trophy from public API
+      - name: Check generated trophy
         run: |
-          python3 .github/scripts/fix-trophy-repositories.py \
-            profile/trophy.svg \
-            o0-James-0o
+          test -s profile/trophy.svg
+          echo "Trophy generated successfully:"
+          ls -lh profile/trophy.svg
+          grep -o "Repositories" profile/trophy.svg | head -1
           
       - name: Commit cards
         run: |
