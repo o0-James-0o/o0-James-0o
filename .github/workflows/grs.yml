@@ -38,7 +38,10 @@ jobs:
           options: '{"username":"stats-organization","repo":"github-readme-stats","theme":"tokyonight","border_color":"7c3aed","border_radius":12}'
           path: profile/pin-stats-organization-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-        
+          
+      - name: Remove old trophy file
+        run: rm -f profile/trophy.svg
+   
       - name: Generate GitHub profile trophies
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
