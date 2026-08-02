@@ -41,14 +41,22 @@ jobs:
           
       - name: Remove old trophy file
         run: rm -f profile/trophy.svg
-   
+
       - name: Generate GitHub profile trophies
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: 'username=o0-James-0o&theme=tokyonight&title=Commits,Experience,Repositories,Stars,Followers,Issues,PullRequest&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=false'
+          options: >-
+            username=o0-James-0o&theme=tokyonight&title=Commits,Experience,Repositories,Stars,Followers,Issues,PullRequest&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=false
           path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          version: v1.0.0
+          version: latest
+
+      - name: Check generated trophy
+        run: |
+          test -s profile/trophy.svg
+          echo "Trophy generated successfully:"
+          ls -lh profile/trophy.svg
+          grep -o "Repositories" profile/trophy.svg | head -1
           
       - name: Commit cards
         run: |
