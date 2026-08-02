@@ -38,7 +38,22 @@ jobs:
           options: '{"username":"stats-organization","repo":"github-readme-stats","theme":"tokyonight","border_color":"7c3aed","border_radius":12}'
           path: profile/pin-stats-organization-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
+        
+      - name: Generate GitHub profile trophies
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: o0-James-0o
+          file: profile/trophy.svg
+          theme: tokyonight
+          max-cols: 7
+          max-rows: 1
+          panel-size: 115
+          margin-width: 5
+          margin-height: 15
+          no-background: true
+          no-frame: false
+          
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
